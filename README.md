@@ -1,4 +1,4 @@
-# GSUS Auditoria: assistente de auditoria hospitalar com LLM local
+# Auditoria: assistente de auditoria hospitalar com LLM local
 
 > **English summary.** Desktop assistant used daily by a hospital auditor in a public hospital.
 > It reads each inpatient's electronic record in read-only mode, applies deterministic rules for
